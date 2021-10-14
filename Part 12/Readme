@@ -1,0 +1,10 @@
+In the twelfth part of the course we will introduce type parameters and you will learn what ArrayList<String>; actually means. 
+You will learn to implement classes that use type parameters. You will get to understand how ArrayList and HashMap are implemented, 
+and you will implement your own versions as well. You will learn how to create random numbers, and practice using some Java tools to create random numbers. 
+You will learn how multidimensional data can be presented, and how to use multidimensional arrays.
+    1. Type parameters
+    2. ArrayList and hash table
+    3. Randomness
+    4. Multidimensional data
+    5. Summary
+
